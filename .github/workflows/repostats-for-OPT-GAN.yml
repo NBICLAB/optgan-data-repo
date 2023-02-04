@@ -7,7 +7,7 @@ on:
 
 jobs:
   j1:
-    name: repostats-for-ddn
+    name: repostats-for-OPT-GAN
     runs-on: ubuntu-latest
     steps:
       - name: run-ghrs
